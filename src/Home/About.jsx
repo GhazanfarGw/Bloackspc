@@ -6,6 +6,9 @@ export default function about() {
     <>
     <div id="Aboutus" className='duration-300 md:pb-10 md:pt-20 lg:pt-20 pt-10 text-black mx-auto md:text-center md:px-10 px-5'>
         <div className='md max-w-screen-xl border-b pb-10 border-[#136690] border-opacity-30 mx-auto md:grid md:grid-cols-2'>
+            <div className='max-w-md mx-auto hidden lg:block md:block border-[#0847F7] border-8'>
+                <img src="67225484d0882fc75bd3804a_image-1.webp" alt="coins" />
+            </div>
             <div className='md:max-w-md w-full mx-auto block md:hidden lg:hidden'>
                 <img src="coins.jpg" alt="coins" />
             </div>
@@ -19,9 +22,12 @@ export default function about() {
                 <p className='text-left pt-5 text-sm text-[#6D7380]'>
                     Our team of experienced professionals is committed to delivering bespoke solutions that prioritize simplicity, security, and peace of mind.
                 </p>
-            </div>
-            <div className='max-w-md mx-auto hidden lg:block md:block'>
-                <img src="67225484d0882fc75bd3804a_image-1.webp" alt="coins" />
+                <div className='flex mt-5'>
+                    <a 
+                    href="/contact" className=" border-[#0847F7] border shadow-lg hover:bg-opacity-80 hover:f#1A2B6Bd text-[#0847F7] items-center relative h-10 text-sm duration-200 px-10 flex rounded-sm ">
+                    Contact Us
+                    </a>
+              </div>
             </div>
         </div>
         <Partner/>

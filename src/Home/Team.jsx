@@ -75,57 +75,6 @@ function Team() {
                     </p>
                 </div>
             </div>
-            <div className='md:py-16 py-8'>
-                <h1 data-aos="zoom-in-up" data-aos-delay="300" data-aos-duration="400" className='text-[#1A2B6B] text-lg font-semibold'>
-                    Key Members
-                </h1>   
-                <div className='xl:grid xl:grid-cols-4 lg:grid lg:grid-cols-4 md:grid md:grid-cols-2 md:gap-5 gap-3'>
-                    <div data-aos="zoom-in-up" data-aos-delay="300" data-aos-duration="400" className='border px-5 py-5 md:py-10 md:px-5 md:mt-10 border-opacity-30 mt-5 bg-white hover:scale-105 duration-200 hover:bg-[#F0F5FF] hover:cursor-wait'>
-                        <h1 className='text-base font-semibold lg:pt-5 pt-3 text-[#1A2B6B]'>
-                            John Davis
-                        </h1>
-                        <p className='text-sm text-[#1A2B6B]'>
-                            Chief Blockchain Consultant
-                        </p>
-                        <p className='pt-3 text-[#6D7380] text-sm leading-normal'>
-                            John is a blockchain technology pioneer with 10+ years of experience helping businesses optimize their digital asset strategies.
-                        </p>
-                    </div>
-                    <div data-aos="zoom-in-up" data-aos-delay="300" data-aos-duration="400" className='border px-5 py-5 md:py-10 md:px-5 md:mt-10 border-opacity-30 mt-5 bg-white hover:scale-105 duration-200 hover:bg-[#F0F5FF] hover:cursor-wait'>
-                        <h1 className='text-base font-semibold lg:pt-5 pt-3 text-[#1A2B6B]'>
-                            Sophia Lee
-                        </h1>
-                        <p className='text-sm text-[#1A2B6B]'>
-                            Lead Cybersecurity Analyst
-                        </p>
-                        <p className='pt-3 text-[#6D7380] text-sm leading-normal'>
-                            Sophia specializes in advanced threat detection and prevention, ensuring clients’ portfolios remain protected against evolving cyber risks.
-                        </p>
-                    </div>
-                    <div data-aos="zoom-in-up" data-aos-delay="300" data-aos-duration="400" className='border px-5 py-5 md:py-10 md:px-5 md:mt-10 border-opacity-30 mt-5 bg-white hover:scale-105 duration-200 hover:bg-[#F0F5FF] hover:cursor-wait'>
-                        <h1 className='text-base font-semibold lg:pt-5 pt-3 text-[#1A2B6B]'>
-                            Michael Carter
-                        </h1>
-                        <p className='text-sm text-[#1A2B6B]'>
-                            Cold Storage Specialist
-                        </p>
-                        <p className='pt-3 text-[#6D7380] text-sm leading-normal'>
-                            Michael is an expert in creating custom offline storage solutions, safeguarding high-value crypto holdings from online threats.
-                        </p>
-                    </div>
-                    <div data-aos="zoom-in-up" data-aos-delay="300" data-aos-duration="400" className='border px-5 py-5 md:py-10 md:px-5 md:mt-10 border-opacity-30 mt-5 bg-white hover:scale-105 duration-200 hover:bg-[#F0F5FF] hover:cursor-wait'>
-                        <h1 className='text-base font-semibold lg:pt-5 pt-3 text-[#1A2B6B]'>
-                            Emma Patel
-                        </h1>
-                        <p className='text-sm text-[#1A2B6B]'>
-                            Compliance Advisor
-                        </p>
-                        <p className='pt-3 text-[#6D7380] text-sm leading-normal'>
-                            Emma’s in-depth knowledge of blockchain regulations helps businesses navigate compliance with confidence.
-                        </p>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
     </>

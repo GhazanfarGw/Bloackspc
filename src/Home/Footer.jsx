@@ -5,7 +5,7 @@ const Footer = () => {
         <div className='bg-[#252E42]'>
             <div className='max-w-screen-xl mx-auto justify-center md:pt-20 md:pb-10 md:px-10 py-10'>
                 <h1 className='text-[#aaa] md:text-base text-sm justify-center pb-5 px-5 '>
-                    Website last updated: January 4, 2025
+                    Website last updated: January 21, 2025
                 </h1>
                 <span className="py-2 md:px-0 px-2">
                     <a href="/">
@@ -26,7 +26,7 @@ const Footer = () => {
                             Contact Us
                         </h1>
                         <p className='text-sm text-[#C3CDD3] md:pt-4 pt-2'>
-                            zoaib@blockspc.com
+                            info@blockspc.com
                         </p>
                     </div>
                     <div className='md:pt-0 pt-10'>
